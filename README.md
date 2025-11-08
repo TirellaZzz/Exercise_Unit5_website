@@ -15,7 +15,7 @@ Tecnologías utilizadas
 
 Puedes visitar el Website aquí:
 
-\[https://tirellazzz.github.io/Exercise\_Unit5\_website/] (https://github.com/TirellaZzz/Exercise\_Unit5\_website.git)
+\[https://tirellazzz.github.io/Exercise\_Unit5\_website/](https://tirellazzz.github.io/Exercise\_Unit5\_website/)
 
 
 
